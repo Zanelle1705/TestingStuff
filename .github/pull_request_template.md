@@ -8,11 +8,11 @@
 
 ### Functionality
 
-- [ ] Hotfix
-- [ ] Bug
-- [ ] Feature
-- [ ] Enhancement or Optimization
-- [ ] Cosmetic (does not change functionality)
+- [ ] Hotfix (Urgent fix for a critical issue)
+- [ ] Bugfix (Fix for an error breaking functionality)
+- [ ] Feature (New functionality)
+- [ ] Enhancement or Optimization (Improvement to an exisiting feature)
+- [ ] Cosmetic (visual changes that do not affect functionality)
 
 ### Testing
 
